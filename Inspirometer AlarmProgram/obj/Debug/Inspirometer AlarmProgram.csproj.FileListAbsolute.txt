@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\bin\Debug\Inspirometer AlarmProgram.exe.config
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\bin\Debug\Inspirometer AlarmProgram.exe
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\bin\Debug\Inspirometer AlarmProgram.pdb
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\obj\Debug\Inspirometer AlarmProgram.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\obj\Debug\Inspirometer AlarmProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\obj\Debug\Inspirometer AlarmProgram.exe
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Inspirometer AlarmProgram\obj\Debug\Inspirometer AlarmProgram.pdb
