@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\bin\Debug\Alarm.exe
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\bin\Debug\Alarm.pdb
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\obj\Debug\Alarm.exe
+C:\Users\user\Documents\GitHub\WindowAlarmProgram\Alarm\obj\Debug\Alarm.pdb
