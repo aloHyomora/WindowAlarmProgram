@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|c:\\users\\user\\documents\\github\\windowalarmprogram\\inspirometer alarmprogram\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|C:\\Users\\user\\Documents\\GitHub\\WindowAlarmProgram\\Inspirometer AlarmProgram\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|c:\\users\\user\\documents\\github\\windowalarmprogram\\inspirometer alarmprogram\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|C:\\Users\\user\\Documents\\GitHub\\WindowAlarmProgram\\Inspirometer AlarmProgram\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A343B1A-39C8-4563-9E9E-D1A36FACCA61}|Inspirometer AlarmProgram.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -45,8 +45,7 @@
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\WindowAlarmProgram\\Inspirometer AlarmProgram\\ProjectInstaller.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ProjectInstaller.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:23:05.137Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2024-08-04T14:23:05.137Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "ProjectInstaller.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:15:50.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T14:15:50.401Z"
             },
             {
               "$type": "Document",
@@ -69,7 +67,7 @@
               "RelativeDocumentMoniker": "Service1.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\WindowAlarmProgram\\Inspirometer AlarmProgram\\Service1.cs",
               "RelativeToolTip": "Service1.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T14:09:26.421Z",
               "EditorCaption": ""
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:07:02.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T14:07:02.689Z"
             },
             {
               "$type": "Document",
